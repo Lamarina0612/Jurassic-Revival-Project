@@ -1,0 +1,197 @@
+World read successfully!
+World name: Jurassic World: Revival
+Target name: Park
+Target's Pet name: Fortune the dog
+Space number: 21
+No players in the game. Please add players to start.
+Available Actions:
+1. MOVE - Move to a different space.
+2. PICKUP - Pick up an item.
+3. LOOKAROUND - Look around the current space.
+4. DISPLAY_SPACE - Display information about the current space.
+5. GENERATE_IMAGE - Generate an image representation of the world.
+6. ADD_HUMAN_PLAYER - Add a human player.
+7. ADD_COMPUTER_PLAYER - Add a computer player.
+8. DISPLAY_PLAYER - Display information about a specific player.
+9. ATTEMPT KILL - Make an attempt on the target character's life.
+Enter your action:
+Enter action to add players (ADD_HUMAN_PLAYER or ADD_COMPUTER_PLAYER): 
+6
+Enter player name: 
+Han
+Enter space name: 
+Control Room
+Enter player capacity: 
+3
+Added human player Han
+Current Player: Han
+Available Actions:
+1. MOVE - Move to a different space.
+2. PICKUP - Pick up an item.
+3. LOOKAROUND - Look around the current space.
+4. DISPLAY_SPACE - Display information about the current space.
+5. GENERATE_IMAGE - Generate an image representation of the world.
+6. ADD_HUMAN_PLAYER - Add a human player.
+7. ADD_COMPUTER_PLAYER - Add a computer player.
+8. DISPLAY_PLAYER - Display information about a specific player.
+9. ATTEMPT KILL - Make an attempt on the target character's life.
+Enter your action:
+6
+Enter player name: 
+Tao
+Enter space name: 
+Amber Mines
+Enter player capacity: 
+4
+Added human player Tao
+Current Player: Han
+Available Actions:
+1. MOVE - Move to a different space.
+2. PICKUP - Pick up an item.
+3. LOOKAROUND - Look around the current space.
+4. DISPLAY_SPACE - Display information about the current space.
+5. GENERATE_IMAGE - Generate an image representation of the world.
+6. ADD_HUMAN_PLAYER - Add a human player.
+7. ADD_COMPUTER_PLAYER - Add a computer player.
+8. DISPLAY_PLAYER - Display information about a specific player.
+9. ATTEMPT KILL - Make an attempt on the target character's life.
+Enter your action:
+7
+Added a computer player named ComputerPlayer3 at Hot Springs Retreat.
+Current Player: Han
+Available Actions:
+1. MOVE - Move to a different space.
+2. PICKUP - Pick up an item.
+3. LOOKAROUND - Look around the current space.
+4. DISPLAY_SPACE - Display information about the current space.
+5. GENERATE_IMAGE - Generate an image representation of the world.
+6. ADD_HUMAN_PLAYER - Add a human player.
+7. ADD_COMPUTER_PLAYER - Add a computer player.
+8. DISPLAY_PLAYER - Display information about a specific player.
+9. ATTEMPT KILL - Make an attempt on the target character's life.
+Enter your action:
+9
+Target is now at: Cretaceous Cafe
+The pet, Fortune the dog, is now move to Cretaceous Cafe
+Han attacked the target with  a poke in the eye causing 1 damage.
+Current Player: Tao
+Available Actions:
+1. MOVE - Move to a different space.
+2. PICKUP - Pick up an item.
+3. LOOKAROUND - Look around the current space.
+4. DISPLAY_SPACE - Display information about the current space.
+5. GENERATE_IMAGE - Generate an image representation of the world.
+6. ADD_HUMAN_PLAYER - Add a human player.
+7. ADD_COMPUTER_PLAYER - Add a computer player.
+8. DISPLAY_PLAYER - Display information about a specific player.
+9. ATTEMPT KILL - Make an attempt on the target character's life.
+Enter your action:
+3
+Target is now at: T-rex Kingdom
+The pet, Fortune the dog, is now move to T-rex Kingdom
+You are at Amber Mines. Items here: Field Journal. Visible spaces: Emergency Bunker (Items: Dino Lure, Players: ),Jeep Safari Track (Items: , Players: )
+Current Player: ComputerPlayer3
+No items to pick up.
+Target is now at: Cretaceous Cafe
+The pet, Fortune the dog, is now move to T-rex Kingdom
+Current Player: Han
+Available Actions:
+1. MOVE - Move to a different space.
+2. PICKUP - Pick up an item.
+3. LOOKAROUND - Look around the current space.
+4. DISPLAY_SPACE - Display information about the current space.
+5. GENERATE_IMAGE - Generate an image representation of the world.
+6. ADD_HUMAN_PLAYER - Add a human player.
+7. ADD_COMPUTER_PLAYER - Add a computer player.
+8. DISPLAY_PLAYER - Display information about a specific player.
+9. ATTEMPT KILL - Make an attempt on the target character's life.
+Enter your action:
+3
+Target is now at: Dino Dome Theatre
+The pet, Fortune the dog, is now move to Dino Dome Theatre
+You are at Control Room. Items here: Dino Call Recorder. Visible spaces: Dino Daycare (Items: Dino Feed Bag, Players: ),Paleo Playground (Items: Raptor Whistle, Players: ),Fossil Market (Items: , Players: ),Emergency Bunker (Items: Dino Lure, Players: )
+Current Player: Tao
+Available Actions:
+1. MOVE - Move to a different space.
+2. PICKUP - Pick up an item.
+3. LOOKAROUND - Look around the current space.
+4. DISPLAY_SPACE - Display information about the current space.
+5. GENERATE_IMAGE - Generate an image representation of the world.
+6. ADD_HUMAN_PLAYER - Add a human player.
+7. ADD_COMPUTER_PLAYER - Add a computer player.
+8. DISPLAY_PLAYER - Display information about a specific player.
+9. ATTEMPT KILL - Make an attempt on the target character's life.
+Enter your action:
+2
+Enter item name: 
+Field Journal
+Target is now at: Fossil Lab
+The pet, Fortune the dog, is now move to Triceratops Trail
+Picked up Field Journal
+Current Player: ComputerPlayer3
+No items to pick up.
+Target is now at: Dilophosaurus Jungle
+The pet, Fortune the dog, is now move to Aquatic Lagoon
+Current Player: Han
+Available Actions:
+1. MOVE - Move to a different space.
+2. PICKUP - Pick up an item.
+3. LOOKAROUND - Look around the current space.
+4. DISPLAY_SPACE - Display information about the current space.
+5. GENERATE_IMAGE - Generate an image representation of the world.
+6. ADD_HUMAN_PLAYER - Add a human player.
+7. ADD_COMPUTER_PLAYER - Add a computer player.
+8. DISPLAY_PLAYER - Display information about a specific player.
+9. ATTEMPT KILL - Make an attempt on the target character's life.
+Enter your action:
+9
+Target is now at: Fossil Lab
+The pet, Fortune the dog, is now move to Spinosaurus Swamp
+Han attacked the target with  a poke in the eye causing 1 damage.
+Current Player: Tao
+Available Actions:
+1. MOVE - Move to a different space.
+2. PICKUP - Pick up an item.
+3. LOOKAROUND - Look around the current space.
+4. DISPLAY_SPACE - Display information about the current space.
+5. GENERATE_IMAGE - Generate an image representation of the world.
+6. ADD_HUMAN_PLAYER - Add a human player.
+7. ADD_COMPUTER_PLAYER - Add a computer player.
+8. DISPLAY_PLAYER - Display information about a specific player.
+9. ATTEMPT KILL - Make an attempt on the target character's life.
+Enter your action:
+9
+Tao successfully killed the target using Field Journal. Tao wins!
+Target is killed by Tao. Human player wins!
+
+Move pet DFS:
+private void movePet() {
+    if (petPath.isEmpty()) {
+      petPath.push(pet.getLocation());
+    }
+
+
+    while (!petPath.isEmpty()) {
+      int currentSpaceIndex = petPath.peek();
+      List<String> neighbors = getNeighboringSpaces(spaces.get(currentSpaceIndex).getName());
+      boolean moved = false;
+      
+      for (String neighborName : neighbors) {
+        int neighborIndex = findSpaceIndexByName(neighborName);
+        if (!visitedSpaces.contains(neighborIndex)) {
+          petPath.push(neighborIndex);
+          visitedSpaces.add(neighborIndex);
+          pet.updateTargetPetLocation(neighborIndex);
+          moved = true;
+          break; // Break after moving to the first unvisited neighbor
+        }
+      }
+      
+      if (!moved) {
+        // Backtrack if no unvisited neighbors are found.
+        petPath.pop();
+      }
+      
+      break; // Only one step per turn.
+    }
+  }

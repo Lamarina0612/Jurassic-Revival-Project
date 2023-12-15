@@ -1,0 +1,81 @@
+World read successfully!
+World name: Jurassic World: Revival
+Target name: Park
+Target's Pet name: Fortune the dog
+Space number: 21
+No players in the game. Please add players to start.
+Available Actions:
+1. MOVE - Move to a different space.
+2. PICKUP - Pick up an item.
+3. LOOKAROUND - Look around the current space.
+4. DISPLAY_SPACE - Display information about the current space.
+5. GENERATE_IMAGE - Generate an image representation of the world.
+6. ADD_HUMAN_PLAYER - Add a human player.
+7. ADD_COMPUTER_PLAYER - Add a computer player.
+8. DISPLAY_PLAYER - Display information about a specific player.
+9. ATTEMPT KILL - Make an attempt on the target character's life.
+Enter your action:
+Enter action to add players (ADD_HUMAN_PLAYER or ADD_COMPUTER_PLAYER): 
+6
+Enter player name: 
+Han
+Enter space name: 
+Control Room
+Enter player capacity: 
+3
+Added human player Han
+Current Player: Han
+Available Actions:
+1. MOVE - Move to a different space.
+2. PICKUP - Pick up an item.
+3. LOOKAROUND - Look around the current space.
+4. DISPLAY_SPACE - Display information about the current space.
+5. GENERATE_IMAGE - Generate an image representation of the world.
+6. ADD_HUMAN_PLAYER - Add a human player.
+7. ADD_COMPUTER_PLAYER - Add a computer player.
+8. DISPLAY_PLAYER - Display information about a specific player.
+9. ATTEMPT KILL - Make an attempt on the target character's life.
+Enter your action:
+7
+Added a computer player named ComputerPlayer2 at Cretaceous Cafe.
+Current Player: Han
+Available Actions:
+1. MOVE - Move to a different space.
+2. PICKUP - Pick up an item.
+3. LOOKAROUND - Look around the current space.
+4. DISPLAY_SPACE - Display information about the current space.
+5. GENERATE_IMAGE - Generate an image representation of the world.
+6. ADD_HUMAN_PLAYER - Add a human player.
+7. ADD_COMPUTER_PLAYER - Add a computer player.
+8. DISPLAY_PLAYER - Display information about a specific player.
+9. ATTEMPT KILL - Make an attempt on the target character's life.
+Enter your action:
+9
+Target is now at: Cretaceous Cafe
+The pet, Fortune the dog, is now move to Cretaceous Cafe
+Han attacked the target with  a poke in the eye causing 1 damage.
+Current Player: ComputerPlayer2
+Picked up Night Vision Goggles
+Current Player: Han
+Available Actions:
+1. MOVE - Move to a different space.
+2. PICKUP - Pick up an item.
+3. LOOKAROUND - Look around the current space.
+4. DISPLAY_SPACE - Display information about the current space.
+5. GENERATE_IMAGE - Generate an image representation of the world.
+6. ADD_HUMAN_PLAYER - Add a human player.
+7. ADD_COMPUTER_PLAYER - Add a computer player.
+8. DISPLAY_PLAYER - Display information about a specific player.
+9. ATTEMPT KILL - Make an attempt on the target character's life.
+Enter your action:
+9
+Target is now at: Fossil Lab
+The pet, Fortune the dog, is now move to Spinosaurus Swamp
+Han attacked the target with  a poke in the eye causing 1 damage.
+Current Player: ComputerPlayer2
+Target is now at: Dino Dome Theatre
+The pet, Fortune the dog, is now move to Visitor'92s Lodge
+Picked up Night Vision Goggles
+Target is now at: Fossil Lab
+The pet, Fortune the dog, is now move to Hot Springs Retreat
+The target escaped with 1 health points. No one wins.

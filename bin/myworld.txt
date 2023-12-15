@@ -1,0 +1,46 @@
+36 30 Jurassic World: Revival
+4 Park
+Fortune the dog
+21
+22 19 23 26 Vistor Center
+28 0 35 5 T-rex Kingdom
+16 21 21 28 Herbivore Meadow
+12 11 21 20 Aerial Aviary
+22 13 25 18 Aquatic Lagoon
+26 13 27 18 Triceratops Trail
+28 26 35 29 Dilophosaurus Jungle
+30 20 35 25 Fossil Lab
+16 3 21 10 Visitor'92s Lodge
+0 3 5 8 Dino Daycare
+4 23 9 28 Jeep Safari Track
+2 9 7 14 Control Room
+2 15 7 22 Emergency Bunker
+0 23 3 28 Amber Mines
+10 5 15 10 Hot Springs Retreat
+28 12 35 19 Dino Dome Theatre
+6 3 9 8 Paleo Playground
+8 11 11 20 Fossil Market
+10 21 15 26 Ranger'92s Basecamp
+22 5 23 12 Spinosaurus Swamp
+30 6 35 11 Cretaceous Cafe
+20
+8 3 Jeep
+4 2 Gun
+12 2 Dino Lure
+8 3 First Aid Kit
+0 3 Park Map
+15 3 Radio
+2 4 Protective Vest
+16 2 Raptor Whistle
+1 2 Night Vision Goggles
+19 2 Escape Rope
+6 2 Security Card
+2 4 Dino Cam
+6 2 Energy Bar
+18 3 DNA Sampler
+13 2 Field Journal
+18 2 Protective Boots
+11 2 Dino Call Recorder
+19 2 Dino Net
+9 3 Dino Feed Bag
+7 2 Inflatable Raft
