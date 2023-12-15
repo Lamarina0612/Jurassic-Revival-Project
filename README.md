@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kill Doctor Lucky (Milestone 4 version)
 
 A Java application that allows users to navigate the vast landscapes of a Jurassic-themed world, visualized via image generation. Users can interact with the program to move characters, generate images, describe rooms, and more.
@@ -93,3 +94,6 @@ Description: If user adds the computer player first, the game will start immedia
 3. **Error Handling**
 Description: If a computer player wants to move to its neighboring spaces, sometimes it may fail. 
 
+=======
+# Jurassic-Revival-Project
+>>>>>>> origin/main
