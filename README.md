@@ -1,15 +1,12 @@
-<<<<<<< HEAD
-# Kill Doctor Lucky (Milestone 4 version)
+# Jurassic World Revival Game (Milestone 4 version)
 
-A Java application that allows users to navigate the vast landscapes of a Jurassic-themed world, visualized via image generation. Users can interact with the program to move characters, generate images, describe rooms, and more.
+A Java application that allows users to navigate the vast landscapes of a Jurassic-themed world, visualized via image generation. Users can interact with the program to move characters, generate images, describe rooms, and more. This is a course project from Northeastern University CS5010. The game can run in both text and GUI mode.
+
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Instructions for Using the JAR File](#instructions-for-using-the-jar-file)
 - [Assumptions Made](#assumptions-made)
 - [Citations](#citations)
-- [Changes from Milestone 1 Design](#changes-from-milestone-1-design)
-- [Changes from Milestone 2 Design](#changes-from-milestone-2-design)
-- [Changes from Milestone 3 Design](#changes-from-milestone-3-design)
 - [Limitations](#limitations)
   
 ## Getting Started
@@ -62,30 +59,6 @@ GUI and TEXT represent the game mode, you can change the turns of game by replac
     - Images are typically saved to `/res/outputImage.png` (or the specified path).
 
 
-## Changes from Milestone 1 Design
-1. **Player Class Refactoring**: The `Player` class was refactored to include more details like `capacity` and `isHuman`.
-2. **Improved Graphics**: Introduced a new method `generateImage()` to provide a graphical representation of the game world.
-3. **Item Interaction**: Enhanced item interaction methods in spaces to improve the user experience.
-4. **Error Handling**: Improved error handling across the game for better resilience and user feedback.
-5. **New Assumptions**: Based on feedback and gameplay requirements, added a few more assumptions (as listed above) to make the game more realistic and engaging.
-
-## Changes from Milestone 2 Design
-1. **Enhanced 'Look Around' Command**: Updated to provide detailed information about the current space, including other players and visible items, as well as insight into neighboring spaces.
-2. **Target Character's Pet**: Introduced the pet as a new game element, affecting visibility in spaces and adding a new layer of strategy.
-3. **Automated Pet Movement**: Implemented a DFS algorithm for the pet's autonomous movement, adding complexity to the game dynamics.
-4. **Attempt Kill Functionality**: Included the ability for players to attempt to kill the target character, with success dependent on whether the attack is seen by others.
-5. **End Game Logic**: Developed a comprehensive end-game scenario, encompassing conditions like successful assassination, escape of the target due to turn limit, and declaring the winner.
-6. **Computer-Controlled Player Upgrade**: Enhanced AI behavior for computer-controlled players, including making kill attempts and strategic item usage.
-7. **Player Visibility Logic**: Added the functionality to determine if one player can see another, based on their relative locations and neighboring spaces.
-8. **Turn-Based Mechanics**: Refined turn-based mechanics to include pet movement and turn-end triggers, ensuring a balanced and fair gameplay experience.
-
-## Changes from the Milestone 3 Design
-1. Added view component, and successfully finished the project using MVC.
-2. Enhanced controller by adding GUI controller. Now the game can be executed in both text-based and Gui.
-3. Welcome Screen and End Screen: Enhanced user experience with welcome screen and end screen.
-4. Log screen: User can see what is going on in the game by looking at the game log, which is at the top of the graphical map.
-5. Up to 10 players in the game, each player is represented by different colors implemented by JColorChooser.
-
 ## Limitations
 1. **AI Behavior Predictability**
 Description: The computer-controlled players follow a set algorithm, which may become predictable after repeated gameplay. 
@@ -93,7 +66,3 @@ Description: The computer-controlled players follow a set algorithm, which may b
 Description: If user adds the computer player first, the game will start immediately and loop until the game ends.
 3. **Error Handling**
 Description: If a computer player wants to move to its neighboring spaces, sometimes it may fail. 
-
-=======
-# Jurassic-Revival-Project
->>>>>>> origin/main
